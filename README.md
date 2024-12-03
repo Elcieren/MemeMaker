@@ -5,7 +5,7 @@
 
 
  <details>
-    <summary><h2>Uygulamanın Amacı ve Senaryo Mantığı</h2></summary>
+    <summary><h2>Uygulamanın Amacı </h2></summary>
     Proje Amacı
    Bu uygulama, kullanıcıların seçtikleri bir görsele yazı ekleyerek kendi meme içeriklerini oluşturmasını sağlar. Kullanıcı, fotoğraf albümünden bir görsel seçebilir, metin girebilir ve bu oluşturduğu içeriği kaydedip paylaşabilir. Ayrıca, oluşturulan görsel direkt olarak ekran üzerinde görüntülenir
   </details>  
